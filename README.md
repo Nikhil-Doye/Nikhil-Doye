@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hello, I'm Nikhil Doye!
 
-<!--
-**Nikhil-Doye/Nikhil-Doye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solving problems through data-driven insights. Whether it's exploring the depths of data, building machine learning models, or visualizing stories, you'll find me immersed in the world of data science and analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **Currently Pursuing:** Advanced Data Analytics and Machine Learning.
+- 💻 **Professional Role:** Data Analyst Intern @ Fix-It 24/7 | Teaching Assistant for Python & Polars.
+- 📍 **Location:** Boston, enjoying its beautiful architecture and rich history.
+- 🌍 **Passion:** Making a difference in individuals' lives through impactful projects.
+
+---
+
+## 🏢 Past Work Experiences
+- **Data Analyst Intern @ Fix-It 24/7**: Leveraging Power BI and advanced analytics to optimize business processes.
+- **Teaching Assistant for Python & Polars**: Guiding students in mastering data manipulation and analytics for marketing.
+- **City of New York's Data Science Department**: Analyzed NYC noise complaints to provide actionable insights for city planners.
+- **Mapping Specialist for Spatial Data Projects**: Created thematic maps using Tableau to visualize spatial health and environmental data.
+
+---
+
+## 🛠️ Technical Skills
+- **Data Analysis:** Python (Pandas, Polars), SQL, Power BI, Tableau.
+- **Machine Learning:** Scikit-learn, TensorFlow, Computer Vision.
+- **Data Visualization:** Plotly, Matplotlib, Seaborn.
+- **Cloud & DevOps:** AWS (EC2, S3, CI/CD Pipelines).
+- **Experiment Tracking:** MLflow for model tracking and registry.
+- **Blockchain Development:** Post-conditions for Stacks (STX), Solana, Polygon.
+
+---
+
+## 📈 GitHub Highlights
+### 🛠 Projects
+- 🌊 [**Reef Classification Model**](https://github.com/nikhil-doye/reef-classification): Computer vision model for detecting reef health.
+- ❄️ **Glacier Melting Segmentation**: AI-driven model to track glacial changes.
+- 🗺️ [**Thematic Maps with Tableau**](https://github.com/nikhil-doye/aqi-maps): Spatial data visualization using NHANES.
+- 📊 [**Noise Pollution Analysis**](https://github.com/nikhil-doye/nyc-noise-analysis): NYC dataset analysis with compelling storytelling.
+
+---
+
+### 🔬 Research Interests
+- Data Science for Social Impact.
+- Enhancing Machine Learning Pipelines.
+- Real-time Analytics and Dashboards.
+
+---
+
+## 🔗 Let's Connect
+- **Portfolio:** [nikhil-doye.github.io](https://nikhil-doye.github.io/)
+- **LinkedIn:** [linkedin.com/in/nikhildoye](https://linkedin.com/in/nikhildoye)
+- **Email:** nikhildoye@example.com
+
+---
+
+### 🌟 Fun Fact
+When I’m not analyzing data, you’ll likely find me experimenting with recipes in the kitchen or exploring the hidden gems of Boston. Data and good food are my favorite combinations!
+
+Let's collaborate and create something amazing together!
+
