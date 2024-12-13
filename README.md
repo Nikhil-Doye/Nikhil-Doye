@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 
 ## 🏆 Achievements
 
-- 🥇 Secured Gold Badge in SQL problem solving from HackerRank.
+- 🥇 Ranked World No.1️⃣ SQL Developer (Practice) on Hacker Rank.
 - 🥈 Achieved Silver Medal during NeuroHack by building a BERT model to understand service ticket descriptions and later using HDBSCAN for automated ticket categorization.
 - 🥉 Earned Bronze Medal in Kaggle Competition to predict student drop-out rates using machine learning models like logistic regression and random forest, later employing hyperparameter tuning to enhance performance.
 
