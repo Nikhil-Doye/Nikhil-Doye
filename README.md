@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 
 ---
 
-##🏆 Achievements
+## 🏆 Achievements
 
 - 🥇 Secured Gold Badge in SQL problem solving from HackerRank.
 - 🥈 Achieved Silver Medal during NeuroHack by building a BERT model to understand service ticket descriptions and later using HDBSCAN for automated ticket categorization.
