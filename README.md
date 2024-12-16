@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 ### 🛠 Projects
 - 🌊 [**Reef Classification Model**](https://github.com/Nikhil-Doye/Nature-32C): Computer vision model for detecting reef health.
 - ❄️ **Glacier Melting Segmentation**: AI-driven model to track glacial changes.
-- 🗺️ [**Thematic Maps with Tableau**](https://github.com/nikhil-doye/aqi-maps): Spatial data visualization using NHANES.
+- 🗺️ [**Thematic Maps with Tableau**](https://public.tableau.com/app/profile/nikhil.doye/viz/EAI6120_Spatial_Data/Dashboard1): Spatial data visualization using NHANES.
 - 📊 [**Noise Pollution Analysis**](https://github.com/nikhil-doye/nyc-noise-analysis): NYC dataset analysis with compelling storytelling.
 
 ---
