@@ -40,8 +40,9 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 
 ## 📈 GitHub Highlights
 ### 🛠 Projects
+- ⚖️ [**Gender_Payment_Disparity**](https://github.com/Nikhil-Doye/Gender-Payment-Disparity-Analysis): Data Analysis about payments in healthcare domain.
+- 🍕 [**Pizza_Ordering_Website**](https://github.com/Nikhil-Doye/ITC6355-Web-Dev-1): Full-Stack Application for ordering pizza.
 - 🌊 [**Reef Classification Model**](https://github.com/Nikhil-Doye/Nature-32C): Computer vision model for detecting reef health.
-- ❄️ **Glacier Melting Segmentation**: AI-driven model to track glacial changes.
 - 🗺️ [**Thematic Maps with Tableau**](https://public.tableau.com/app/profile/nikhil.doye/viz/EAI6120_Spatial_Data/Dashboard1): Spatial data visualization using NHANES.
 - 📊 [**Noise Pollution Analysis**](https://github.com/nikhil-doye/nyc-noise-analysis): NYC dataset analysis with compelling storytelling.
 
