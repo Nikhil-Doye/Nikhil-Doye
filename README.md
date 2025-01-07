@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 - 🍕 [**Pizza_Ordering_Website**](https://github.com/Nikhil-Doye/ITC6355-Web-Dev-1): Full-Stack Application for ordering pizza.
 - 🌊 [**Reef Classification Model**](https://github.com/Nikhil-Doye/Nature-32C): Computer vision model for detecting reef health.
 - 🗺️ [**Thematic Maps with Tableau**](https://public.tableau.com/app/profile/nikhil.doye/viz/EAI6120_Spatial_Data/Dashboard1): Spatial data visualization using NHANES.
-- 📊 [**Noise Pollution Analysis**](https://github.com/nikhil-doye/nyc-noise-analysis): NYC dataset analysis with compelling storytelling.
+- 📊 [**Noise Pollution Analysis**](https://github.com/Nikhil-Doye/NYC-Noise-Complaints-Analysis): NYC dataset analysis with compelling storytelling.
 
 ---
 
