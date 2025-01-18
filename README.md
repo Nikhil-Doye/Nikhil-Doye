@@ -57,6 +57,10 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhil-doye)](https://git.io/streak-stats)
+
+---
+
 ## 🔗 Let's Connect
 - **Portfolio:** [nikhil-doye.github.io](https://nikhil-doye.github.io/)
 - **LinkedIn:** [linkedin.com/in/nikhildoye](https://linkedin.com/in/nikhildoye)
