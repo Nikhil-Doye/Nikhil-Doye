@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Nikhil Doye!
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nikhil-doye)
 
 Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solving problems through data-driven insights. Whether it's exploring the depths of data, building machine learning models, or visualizing stories, you'll find me immersed in the world of data science and analytics.
 
@@ -11,6 +12,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 - 🌍 **Passion:** Making a difference in individuals' lives through impactful projects.
 
 ---
+
 
 ## 🏢 Past Work Experiences
 - **Data Analyst Intern @ Fix-It 24/7**: Leveraging Power BI and advanced analytics to optimize business processes.
