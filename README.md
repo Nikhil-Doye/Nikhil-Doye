@@ -66,7 +66,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 ---
 
 ## 🔗 Let's Connect
-- **Portfolio:** [nikhil-doye.github.io](https://nikhil-doye.github.io/)
+- **Portfolio:** [Datascience Portfolio](https://datascienceportfolio-nikhil-doyes-projects.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/nikhildoye](https://linkedin.com/in/nikhildoye)
 - **Email:** doye.n@northeastern.edu
 
