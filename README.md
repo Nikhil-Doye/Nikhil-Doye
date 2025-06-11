@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Nikhil Doye!
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nikhil-doye)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nikhil-doye&style=for-the-badge)
 
 Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solving problems through data-driven insights. Whether it's exploring the depths of data, building machine learning models, or visualizing stories, you'll find me immersed in the world of data science and analytics.
 
