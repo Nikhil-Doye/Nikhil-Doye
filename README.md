@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 
 ## 🚀 About Me
 - 🎓 **Currently Pursuing:** Advanced Data Analytics and Machine Learning.
-- 💻 **Professional Role:** Data Analyst Intern @ Fix-It 24/7 | Teaching Assistant for Python & Polars.
+- 💻 **Professional Role:** Software Engineer @Fix-It 24/7 | Teaching Assistant for Python & Polars.
 - 📍 **Location:** Boston, enjoying its beautiful architecture and rich history.
 - 🌍 **Passion:** Making a difference in individuals' lives through impactful projects.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solvi
 
 
 ## 🏢 Past Work Experiences
-- **Data Analyst Intern @ Fix-It 24/7**: Leveraging Power BI and advanced analytics to optimize business processes.
+- **Software Engineer @Fix-It 24/7**: Integrated external fintech APIs for real-time portfolio analytics, streamlining client reporting workflows for wealth management products.
 - **Teaching Assistant for Python & Polars**: Guiding students in mastering data manipulation and analytics for marketing.
 - **City of New York's Data Science Department**: Analyzed NYC noise complaints to provide actionable insights for city planners.
 - **Mapping Specialist for Spatial Data Projects**: Created thematic maps using Tableau to visualize spatial health and environmental data.
