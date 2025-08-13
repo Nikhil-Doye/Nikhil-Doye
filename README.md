@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Nikhil Doye!
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nikhil-doye&style=for-the-badge)
 
-Welcome to my GitHub! I'm a passionate **Data Scientist** with a knack for solving problems through data-driven insights. Whether it's exploring the depths of data, building machine learning models, or visualizing stories, you'll find me immersed in the world of data science and analytics.
+Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in AI/ML powered products, with a knack for solving problems through data-driven insights. Whether it's exploring the depths of data, building machine learning models, or visualizing stories, you'll find me immersed in the world of data science and analytics.
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Currently Pursuing:** Advanced Data Analytics and Machine Learning.
+- 🎓 **New Grad:** Artificial Intelligence.
 - 💻 **Professional Role:** Software Engineer @Fix-It 24/7 | Teaching Assistant for Python & Polars.
-- 📍 **Location:** Boston, enjoying its beautiful architecture and rich history.
+- 📍 **Location:** Boston, enjoying its beautiful architecture and rich history(Flexible to Relocate!!).
 - 🌍 **Passion:** Making a difference in individuals' lives through impactful projects.
 
 ---
