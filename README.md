@@ -66,7 +66,6 @@ Welcome to my GitHub! I am a passionate **Software Engineer** specializing in AI
 ---
 
 ## 🔗 Let's Connect
-- **Portfolio:** [Datascience Portfolio](https://datascienceportfolio-nikhil-doyes-projects.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/nikhildoye](https://linkedin.com/in/nikhildoye)
 - **Email:** doye.n@northeastern.edu
 
