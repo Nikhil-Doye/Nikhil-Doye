@@ -43,7 +43,7 @@ Welcome to my GitHub! I am a passionate **Software Engineer** specializing in AI
 ## 📈 GitHub Highlights
 ### 🛠 Projects
 - ⚖️ [**Auto_ML_Agent**](https://github.com/Nikhil-Doye/auto-ml-agent): Build Machine Learning Pipelines with AI.
-- 🍕 [**Pizza_Ordering_Website**](https://github.com/Nikhil-Doye/ITC6355-Web-Dev-1): Full-Stack Application for ordering pizza.
+- 🍕 [**WorkFlow_Builder**](https://github.com/Nikhil-Doye/workflow-builder): Open-Source AI powered Agentic Workflow builder with No Code.
 - 🌊 [**Hotel_Reservation_Prediction**](https://github.com/Nikhil-Doye/Hotel-Reservation-Prediction): End-to-End MLOps project to predict whether customer will cancel the reservation.
 - 🗺️ [**Thematic Maps with Tableau**](https://public.tableau.com/app/profile/nikhil.doye/viz/EAI6120_Spatial_Data/Dashboard1): Spatial data visualization using NHANES.
 - 📊 [**Noise Pollution Analysis**](https://github.com/Nikhil-Doye/NYC-Noise-Complaints-Analysis): NYC dataset analysis with compelling storytelling.
