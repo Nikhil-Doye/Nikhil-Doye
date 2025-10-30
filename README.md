@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a passionate **AI Software Engineer** specializing in
 ---
 
 ## 🚀 About Me
-- 🎓 **New Grad:** Artificial Intelligence.
+- 🎓 **New Grad:** MS in Computer Science
 - 💻 **Professional Role:** Software Engineer @Fix-It 24/7 | Teaching Assistant for Python & Polars.
 - 📍 **Location:** Boston, enjoying its beautiful architecture and rich history(Flexible to Relocate!!).
 - 🌍 **Passion:** Making a difference in individuals' lives through impactful projects.
