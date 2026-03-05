@@ -109,6 +109,15 @@ https://medium.com/@nikhil-datasolutions/building-a-spotify-etl-pipeline-with-aw
 
 ---
 
+## Software Engineer — LTIMindtree
+
+- Developed scalable enterprise applications using **Python and SQL for large-scale data processing**
+- Built data integration workflows improving **data processing efficiency across internal systems**
+- Collaborated with cross-functional engineering teams to design and deploy **production-grade backend services**
+- Optimized database queries and batch processing pipelines to improve **system performance and reliability**
+
+---
+
 # 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Doye&show_icons=true)
