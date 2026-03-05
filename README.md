@@ -124,16 +124,16 @@ https://medium.com/@nikhil-datasolutions/building-a-spotify-etl-pipeline-with-aw
 
 ---
 
-# 🤝 Connect With Me
+# 🔗 Let's Connect
 
 LinkedIn  
-https://linkedin.com
+https://linkedin.com/in/nikhil-doye
 
 GitHub  
 https://github.com/Nikhil-Doye
 
 Email  
-nikhil@example.com
+nikhil.doye@gmail.com
 
 ---
 
@@ -155,12 +155,6 @@ nikhil@example.com
 - 🌊 [**Hotel_Reservation_Prediction**](https://github.com/Nikhil-Doye/Hotel-Reservation-Prediction): End-to-End MLOps project to predict whether customer will cancel the reservation.
 - 🗺️ [**Thematic Maps with Tableau**](https://public.tableau.com/app/profile/nikhil.doye/viz/EAI6120_Spatial_Data/Dashboard1): Spatial data visualization using NHANES.
 - 📊 [**Noise Pollution Analysis**](https://github.com/Nikhil-Doye/NYC-Noise-Complaints-Analysis): NYC dataset analysis with compelling storytelling.
-
----
-
-## 🔗 Let's Connect
-- **LinkedIn:** [linkedin.com/in/nikhildoye](https://linkedin.com/in/nikhildoye)
-- **Email:** doye.n@northeastern.edu
 
 ---
 
