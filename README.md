@@ -50,7 +50,7 @@ Progress is updated every Friday.
 - Designed document ingestion pipelines that cut manual research time by **45%**
 - Implemented ML evaluation and monitoring with MLflow and Airflow
 
-**Software Engineer Intern** — Fix-It 24/7
+**Software Engineer Intern** — Fix-it Group
 - Built backend APIs for **10K+ monthly users**
 - Implemented Kafka streaming pipelines that reduced analytics latency by **60%**
 - Built CI/CD pipelines with Docker and Kubernetes
